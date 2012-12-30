@@ -5,7 +5,7 @@ v0.7
 Tree data structure in javascript.
 prototype based implementation.
 
-Tested with [basement tests](http://nzonbi.github.com/pea) (tests in the browser)
+Tested with [basement tests](http://nzonbi.github.com/peas.js/) (tests in the browser)
 
 license (MIT) included in "license" file.
 
@@ -72,7 +72,7 @@ only the first level of depth. No recursion.
 On each case, the function will get as first and only parameter,
 the current node that is acting upon.
 
-* node.sub.onAllBelow( action )
+* node.onAllBelow( action )
 Calls "action" function on all the descendants nodes of "node",
 using recursion.
 On each case, the function will get as first and only parameter,
