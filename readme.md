@@ -5,7 +5,7 @@ v0.7
 Tree data structure in javascript.
 prototype based implementation.
 
-Tested with [basement tests](http://nzonbi.github.com/pea) (tests in the browser)
+Tested with [basement tests](http://nzonbi.github.com/peas.js/) (tests in the browser)
 
 license (MIT) included in "license" file.
 
